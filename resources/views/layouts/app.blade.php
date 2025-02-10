@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url('/css/app.css') }}" />
     <title>COMP3385 - Lab 1</title>
 </head>
 <body>
